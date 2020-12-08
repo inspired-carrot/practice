@@ -7,3 +7,5 @@ but sometimes things may get too hard and we tend to give up easily
 
 
 But sometimes we will be too hardworking to reach or goals that we neglect other people's help and effort. Do not do that
+
+Do not be like that, we should still get Git Bash just in case or maybe github desktop, whichever is more lightweight.
